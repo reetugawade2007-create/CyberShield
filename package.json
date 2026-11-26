@@ -10,10 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^27.1.1",
+    "@react-native-firebase/auth": "^27.1.1",
+    "@react-native-firebase/firestore": "^27.1.1",
+    "@react-native/new-app-screen": "0.88.1",
+    "axios": "^1.21.1",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
     "react": "19.3.0",
     "react-native": "0.88.1",
-    "@react-native/new-app-screen": "0.88.1",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-paper": "^5.15.5",
+    "react-native-safe-area-context": "^5.11.1",
+    "react-native-vector-icons": "^10.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
